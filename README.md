@@ -1,29 +1,24 @@
-# client
+# Frontend for Complex Math Game
 
-## Project setup
-```
-npm install
-```
+Follow our intruction, just in case you need to see the part we preserved.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Installation
 
-### Compiles and minifies for production
-```
-npm run build
-```
+1. Clone the repository then move into the cloned file.
 
-### Run your tests
+``` 
+$ git clone https://github.com/theworstteam/complex-math-game-frontend.git
+
+$ cd complex-math-game-frontend
+ ```
+
+2. Install npm packages.
+
 ```
-npm run test
+$ npm install
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+### Visit our site at [Complex-Math-Game](https://super-math-game.herokuapp.com/)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
